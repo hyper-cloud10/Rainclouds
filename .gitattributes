@@ -1,0 +1,6 @@
+*.rs linguist-detectable
+*.lua linguist-detectable
+
+*.lua linguist-language=Lua
+*.rs linguist-language=Rust
+
