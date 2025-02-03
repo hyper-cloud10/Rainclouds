@@ -1,3 +1,5 @@
+Rust 2021
+
 #![no_main]
 
 use std::{
