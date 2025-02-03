@@ -1,5 +1,5 @@
-*.rs linguist-detectable
-*.lua linguist-detectable
+*.rs linguist-detectable=true
+*.lua linguist-detectable=true
 
 *.lua linguist-language=Lua
 *.rs linguist-language=Rust
